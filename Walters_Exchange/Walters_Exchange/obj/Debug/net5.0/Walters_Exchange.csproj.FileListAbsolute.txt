@@ -1,0 +1,16 @@
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\bin\Debug\net5.0\Walters_Exchange.exe
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\bin\Debug\net5.0\Walters_Exchange.deps.json
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\bin\Debug\net5.0\Walters_Exchange.runtimeconfig.json
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\bin\Debug\net5.0\Walters_Exchange.runtimeconfig.dev.json
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\bin\Debug\net5.0\Walters_Exchange.dll
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\bin\Debug\net5.0\ref\Walters_Exchange.dll
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\bin\Debug\net5.0\Walters_Exchange.pdb
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\obj\Debug\net5.0\Walters_Exchange.csprojAssemblyReference.cache
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\obj\Debug\net5.0\Walters_Exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\obj\Debug\net5.0\Walters_Exchange.AssemblyInfoInputs.cache
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\obj\Debug\net5.0\Walters_Exchange.AssemblyInfo.cs
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\obj\Debug\net5.0\Walters_Exchange.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\obj\Debug\net5.0\Walters_Exchange.dll
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\obj\Debug\net5.0\ref\Walters_Exchange.dll
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\obj\Debug\net5.0\Walters_Exchange.pdb
+C:\Users\walte\source\repos\Walters_Exchange\Walters_Exchange\obj\Debug\net5.0\Walters_Exchange.genruntimeconfig.cache
